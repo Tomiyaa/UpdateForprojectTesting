@@ -1,4 +1,3 @@
-
-<Version: 1.01>
-/data/test.zip https://drive.google.com/drive/u/0/folders/1dXwY_dUAqRnX0szif7lVMeG60Fzgchqo
-<End of Version>
+  <Version: 1.01>
+  /data/test.zip https://wordpress.org/latest.zip
+  <End of Version>
